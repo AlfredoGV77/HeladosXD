@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 21px;
+    
+
+}
+
+
+html, body{
+    
+    background-color:#fdfd96;
+        
+}
+
+.absolut{
+    
+    background-color: #000;
+    margin-top: 3rem;
+    bottom: 0px;
+    height: 3rem;
+    width: 100%;
+    color: white;
+    align: center;
+    position: absolute;
+}

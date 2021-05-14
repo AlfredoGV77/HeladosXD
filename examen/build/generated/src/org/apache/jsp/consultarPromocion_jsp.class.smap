@@ -1,0 +1,20 @@
+SMAP
+consultarPromocion_jsp.java
+JSP
+*S JSP
+*F
++ 0 consultarPromocion.jsp
+consultarPromocion.jsp
+*L
+5,26:47
+31,19:74
+49,2:93
+51,5:95,3
+56,5:110
+63,8:118
+70,4:126
+75,8:132
+82,5:140
+87,2:146
+88,15:148
+*E
